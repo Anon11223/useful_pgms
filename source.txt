@@ -1,0 +1,7 @@
+https://www.media.io/convert/webm-to-mp4.html
+PYTHONUNBUFFERED=1;PYCHARM_DEBUG=True
+https://github.com/aleju/imgaug#documentation
+
+https://towardsdatascience.com/creating-your-own-object-detector-ad69dda69c85
+
+
